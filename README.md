@@ -10,21 +10,29 @@ Client Commands
 
 	add 
   -	Writing the above command followed by list of number will compute and display its sum.
+  
 	sub 
   -	Writing the above command followed by list of number will compute and display its difference.
+  
 	mul
   -	Writing the above command followed by list of number will compute and display its Product.
+  
 	div
   -	Writing the above command followed by list of number will compute and display division.
+  
 	run 
   -	Writing the above command followed by the executable file name will execute the process.
   -	This command is case sensitive and could show errors if case is ignored.
+  
 	list 
   -	Writing the above command will displayed all active as well as inactive processes.
+  
 	killp
   -	Writing the above command followed by Process pid will forcefully terminate the process
+  
 	killn
   -	Writing the above command followed by Process Name will forcefully terminate the process.
+  
 	exit 
   -	Exit the client from running.
 
