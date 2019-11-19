@@ -43,15 +43,21 @@ Server Commands
 	list client
   -	Shows the information about all currently connected client.
   -	The information includes client’s IP address, client’s Port and its starting time
+  
 	client count
   -	Displays the count of currently connected clients.
+  
 	kick
   -	Writing the above command followed by IP will disconnect the client. (If connected). 
+  
 	printall
   -	Writing the above command followed by a message will print the message on all client console / terminal.
+  
 	print 
-  -	Writing the above command followed by an IP and a message will print the message on that particular client console / terminal. 
+  -	Writing the above command followed by an IP and a message will print the message on that particular client console / terminal.
+  
 	list process
   -	Shows all the processes (active and inactive) of all currently connected clients.
+  
 	print 
   -	Writing the above command followed by an IP and a message will print the message on that particular client console / terminal. 
